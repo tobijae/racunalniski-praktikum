@@ -12,6 +12,11 @@
 - *Ukazna paleta* v VS Code: Cmd+Shift+P
 - *Označi* naslednjo enako besedo (več kurzorjev): Cmd+D
 - *Hitro odpri* datoteko v VS Code: Cmd+P
+- VSCode paleta ukazov: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)
+- Skok na začetek vrstice: <kbd>Home</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>←</kbd>)
+- Premik za eno besedo naprej: <kbd>Ctrl</kbd>+<kbd>→</kbd> (🍎 <kbd>Option</kbd>+<kbd>→</kbd>)
+- Brisanje vrstice: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd>)
+- Pretvorba označenega besedila v velike črke: ukaz _Transform to Uppercase_ v paleti ukazov
 
 <!-- 2. nivojski razdelek -->
 ## Koda
