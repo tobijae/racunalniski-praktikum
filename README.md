@@ -48,3 +48,4 @@ Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 5. [X](https://x.com/)
 6. [Cursor](https://cursor.com/)
 7. [ChatGPT](https://chatgpt.com/)
+5. [Urnik FMF](https://urnik.fmf.uni-lj.si/)
